@@ -2,5 +2,5 @@
 <p align="center" id="description">Local_Manifests for Project Clover </p>
 
 ```
-git clone https://github.com/achu137/local_manifests_violet.git -b clover .repo/local_manifests
+git clone https://github.com/achu137/local_manifests.git -b clover .repo/local_manifests
 ```
