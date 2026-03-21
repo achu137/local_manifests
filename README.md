@@ -1,1 +1,6 @@
-# local_manifests_violet
+<h1 align="center" id="title">Local_Manifests_Violet</h1>
+<p align="center" id="description">Local_Manifests for Project Clover </p>
+
+```
+git clone https://github.com/AsTechpro20/local_manifests_violet.git -b clover .repo/local_manifests
+```
