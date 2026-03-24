@@ -2,9 +2,9 @@
 <manifest>
   
   <!-- Remotes -->
-  <remote name="achu" fetch="https://github.com/achu137" />
-  <remote name="ritesh" fetch="https://github.com/RiteshSahany" />
-  <remote name="adi8900" fetch="https://github.com/adi8900" />
+  <remote name="achu" fetch="https://github.com/achu137/" />
+  <remote name="ritesh" fetch="https://github.com/RiteshSahany/" />
+  <remote name="adi8900" fetch="https://github.com/adi8900/" />
   
   <!-- Device Tree -->
   <project path="device/xiaomi/violet" name="device_xiaomi_violet" remote="achu" revision="Clover" />
