@@ -8,7 +8,7 @@
   <remote name="achu-violet" fetch="https://github.com/achu-violet/" />
   
   <!-- Device Tree -->
-  <project path="device/xiaomi/violet" name="device_xiaomi_violet" remote="achu" revision="infinity-16" />
+  <project path="device/xiaomi/violet" name="device_xiaomi_violet" remote="achu" revision="16.1" />
 
   <!-- Kernel Tree -->
   <project path="kernel/xiaomi/violet" name="kernel_xiaomi_violet" remote="achu-violet" revision="16" />
