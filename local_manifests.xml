@@ -5,14 +5,13 @@
   <remote name="achu" fetch="https://github.com/achu137/" />
   <remote name="frost-testzone" fetch="https://github.com/frost-testzone" />
   <remote name="LineageOS" fetch="https://github.com/LineageOS/" />
-  <remote name="achu-violet" fetch="https://github.com/achu-violet/" />
-  <remote name="violet-stuff" fetch="https://github.com/Violet-stuff/" />
+  <remote name="selfmusing" fetch="https://github.com/selfmusing/" />
   
   <!-- Device Tree -->
   <project path="device/xiaomi/violet" name="device_xiaomi_violet" remote="achu" revision="16.1" />
 
   <!-- Kernel Tree -->
-  <project path="kernel/xiaomi/violet" name="snowflake_kernel_violet" remote="violet-stuff" revision="bka" />
+  <project path="kernel/xiaomi/violet" name="android_kernel_xiaomi_violet" remote="selfmusing" revision="sixteen" />
 
   <!-- Vendor Tree -->
   <project path="vendor/xiaomi/violet" name="vendor_xiaomi_violet" remote="achu" revision="16.1" />
