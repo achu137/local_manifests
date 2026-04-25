@@ -2,5 +2,5 @@
 <p align="center" id="description">Local_Manifests </p>
 
 ```
-git clone https://github.com/achu137/local_manifests.git -b Lineage .repo/local_manifests
+git clone https://github.com/achu137/local_manifests.git -b matrixx .repo/local_manifests
 ```
